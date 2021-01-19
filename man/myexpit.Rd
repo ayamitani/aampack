@@ -10,7 +10,7 @@ myexpit(x)
 \item{x}{numeric vector}
 }
 \value{
-y
+z
 }
 \description{
 a function that returns the inverse of the logistic link function
